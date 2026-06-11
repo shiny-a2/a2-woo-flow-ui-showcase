@@ -1,8 +1,8 @@
 # Sample Code
 
-This directory is reserved for Phase 3 public-safe snippets. The samples will demonstrate checkout UI workflow-control approach without mirroring production source code.
+This directory contains Phase 3 public-safe snippets. The samples demonstrate checkout UI workflow-control approach without mirroring production source code.
 
-## Planned Samples
+## Published Samples
 
 - `php/checkout-field-policy.php` — generic checkout field requirement and validation policy.
 - `php/mobile-verification-state.php` — simplified mobile verification state without provider details.
@@ -18,4 +18,4 @@ This directory is reserved for Phase 3 public-safe snippets. The samples will de
 
 ## Status
 
-Phase 3 is planned. These samples will be intentionally simplified and should be read as review samples, not as production checkout code.
+Phase 3 is active with two PHP snippets and one JavaScript snippet. These files are intentionally simplified and should be read as review samples, not as production checkout code.

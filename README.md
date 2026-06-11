@@ -92,14 +92,14 @@ Read the full boundary in `docs/privacy-boundary.md`.
 - `docs/privacy-boundary.md` — what is public versus private.
 - `docs/update-notes.md` — public update log.
 - `samples/README.md` — sanitized sample-code overview.
-- `samples/php/` — planned short public-safe PHP snippets for checkout validation and mobile verification state.
-- `samples/js/` — planned short public-safe JavaScript snippets for localized checkout UI behavior.
+- `samples/php/` — short public-safe PHP snippets for checkout validation and mobile verification state.
+- `samples/js/` — short public-safe JavaScript snippets for localized checkout UI behavior.
 
 ## Phase Status
 
 - **Phase 1:** showcase skeleton, privacy boundary, and reviewer path.
 - **Phase 2:** employer-friendly business context, architecture notes, and risk boundaries.
-- **Phase 3:** planned sanitized snippets for digit normalization, checkout field policy, and mobile verification state.
+- **Phase 3:** sanitized snippets for digit normalization, checkout field policy, and mobile verification state.
 
 ## Links
 
