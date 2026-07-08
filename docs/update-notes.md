@@ -1,5 +1,11 @@
 # Public Update Notes
 
+## 2026-07-08 — Compatibility Maintenance
+
+- Added a public-safe note for a private checkout compatibility update around legacy customer date metadata and birthday-coupon continuity.
+- Preserved the privacy boundary: no production source, provider names, internal option/meta keys, coupon codes, customer data, or rollout commands are exposed.
+- Why it matters: legacy commerce flows can depend on historical metadata shapes; compatibility maintenance keeps checkout data collection, customer records, and scheduled customer messaging recoverable without exposing private implementation details.
+
 ## 2026-06-11 — Phase 3
 
 - Added sanitized PHP and JavaScript samples for checkout field policy, mobile verification state, and localized digit normalization.
