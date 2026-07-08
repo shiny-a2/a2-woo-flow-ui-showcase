@@ -3,6 +3,7 @@
 ## 2026-07-08 — Compatibility Maintenance
 
 - Added a public-safe note for a private checkout compatibility update around legacy customer date metadata and birthday-coupon continuity.
+- Added a public-safe note for a private localized checkout date-input UX improvement, focused on easier Jalali date selection while preserving validation and privacy boundaries.
 - Preserved the privacy boundary: no production source, provider names, internal option/meta keys, coupon codes, customer data, or rollout commands are exposed.
 - Why it matters: legacy commerce flows can depend on historical metadata shapes; compatibility maintenance keeps checkout data collection, customer records, and scheduled customer messaging recoverable without exposing private implementation details.
 
